@@ -28,6 +28,6 @@
 
 注：run.sql为实验1至实验5的SQL语言指令脚本，使用的是Oracle软件11g32位版本。
 
-## Acknowledge
+## Acknowledgement
 
 指导教师：毛宇光、陈紫
